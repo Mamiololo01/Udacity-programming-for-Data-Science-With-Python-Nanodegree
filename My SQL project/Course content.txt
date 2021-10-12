@@ -1,0 +1,39 @@
+UDACITY DATA PROGRAM COURSE Content
+
+### PART 1
+Welcome to the Program
+Welcome to the program! In this part, you will get an orientation into using our classroom and services.
+You’ll also get advice for making the best use of your time while enrolled in this program.
+
+
+### PART 2
+Introduction to SQL
+Learn SQL language fundamentals such as building basic queries and advanced functions like Window Functions, Subqueries and Common Table Expressions.
+
+Project: Investigate a Relational Database
+
+
+### PART 3
+Command Line Essentials
+The Unix shell is a powerful tool for developers of all sorts. In this lesson, you'll get a quick introduction to the very basics of using it on your own computer.
+
+
+
+### PART 4
+Introduction to Python
+Learn Python programming fundamentals such as data types and structures, variables, loops, and functions.
+
+Project: Explore US Bikeshare Data
+
+
+
+### PART 5
+Introduction to Version Control
+Learn how to use version control to save and share your projects with others.
+
+Project: Post your Work on GitHub
+
+
+## PART 6
+Congratulations and Next Steps
+Congratulations on completing all projects for this Nanodegree!
